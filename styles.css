@@ -35,6 +35,24 @@ h1 {
     margin: 0 auto
 }
 
+#column2 {
+    float: left;
+    width: 375px;
+    height: 500px;
+    margin: 5px;
+    font-size: 14px;
+    text-align: justify
+}
+
+#column3 {
+    float: left;
+    width: 375px;
+    height: 500px;
+    margin: 5px;
+    font-size: 14px;
+    text-align: justify
+}
+
 nav {
     font-family: verdana,sans-serif;
     font-size: 16px;
@@ -47,16 +65,15 @@ nav {
 }
 
 #gallery {
-
 }
 
-#album { 
+#album {
     width: 395px;
     height: 315px;
     float: left;
-    margin: 2.5px;
-
+    margin: 2.5px
 }
+
 a:link {
     text-decoration: none;
     color: #45ADA8;
