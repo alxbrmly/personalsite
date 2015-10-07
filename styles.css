@@ -46,6 +46,17 @@ nav {
     width: 800px
 }
 
+#gallery {
+
+}
+
+#album { 
+    width: 395px;
+    height: 315px;
+    float: left;
+    margin: 2.5px;
+
+}
 a:link {
     text-decoration: none;
     color: #45ADA8;
