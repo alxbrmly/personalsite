@@ -1,0 +1,65 @@
+h1 {
+    text-align: left;
+    font-family: verdana,arial,sans-serif;
+    font-size: 20px;
+    color: #547980;
+    text-transform: uppercase
+}
+
+#header {
+    text-align: left;
+    font-family: verdana,arial,sans-serif;
+    font-size: 20px;
+    color: #547980;
+    text-transform: uppercase
+}
+
+#banner {
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+#container {
+    width: 1155px;
+    margin: 0 auto;
+    font-family: verdana,sans-serif
+}
+
+#column1 {
+    width: 800px;
+    height: 500px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    font-size: 14px;
+    text-align: justify;
+    margin: 0 auto
+}
+
+nav {
+    font-family: verdana,sans-serif;
+    font-size: 16px;
+    text-align: center
+}
+
+#main-photo {
+    height: 600px;
+    width: 800px
+}
+
+a:link {
+    text-decoration: none;
+    color: #45ADA8;
+    text-transform: uppercase
+}
+
+a:visited {
+    text-decoration: none;
+    color: #45ADA8;
+    text-transform: uppercase
+}
+
+a:active {
+    text-decoration: none;
+    color: #45ADA8;
+    text-transform: uppercase
+}
